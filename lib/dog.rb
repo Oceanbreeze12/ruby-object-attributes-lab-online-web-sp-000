@@ -1,4 +1,2 @@
-def name =(dog)
-  end
-  
+
  
